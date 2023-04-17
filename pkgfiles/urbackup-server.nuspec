@@ -26,6 +26,6 @@ Your files can be restored through the web interface, via the client or the Wind
 A web interface makes setting up your own backup server really easy. For a quick impression please look at the [screenshots here](https://www.urbackup.org/impressions.html).
 
 Currently there are over 21,000 running UrBackup server instances (with auto-update enabled) with some instances having hundreds of active clients.</description>
-    <releaseNotes>https://www.urbackup.org/client_changelog.html</releaseNotes>
+    <releaseNotes>https://www.urbackup.org/server_changelog.html</releaseNotes>
   </metadata>
 </package>
